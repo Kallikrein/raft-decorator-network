@@ -21,7 +21,8 @@
   ],
   "authors": [
     "Thomas Charlat",
-    "Joachim Westphal"
+    "Joachim Westphal",
+    "Nicolas Prigent"
   ],
   "license": "GPL-2.0",
   "ignore": [
